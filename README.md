@@ -1,3 +1,8 @@
+# DL-DIY potential project ideas
+- to be added ...
+
+-------------------
+
 # ⛺️ Tent: Fully Test-Time Adaptation by Entropy Minimization
 
 This is the official project repository for [Tent: Fully-Test Time Adaptation by Entropy Minimization](https://openreview.net/forum?id=uXl3bZLkr3c) by
