@@ -1,5 +1,6 @@
 # DL-DIY potential project ideas
 - to be added ...
+- related work: [Improving robustness against common corruptions by covariate shift adaptation](https://domainadaptation.org/batchnorm/) ([code](https://github.com/bethgelab/robustness))
 
 -------------------
 
